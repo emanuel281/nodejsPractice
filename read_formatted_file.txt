@@ -1,0 +1,6 @@
+NAME#SURNAME#CELL#EMAIL
+Jabu#Jabulani#0712345678#jb@jabulani.com
+Sakhi#Sakhile#0787654321#sakhi@sakhiman.com
+Laurrain#Laurrain#0714253689#laurrain@laurrainenterprise.com
+Sne#Emanuel#0215478963#sne@thedevilsreject.com
+
